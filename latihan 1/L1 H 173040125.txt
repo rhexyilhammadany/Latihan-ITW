@@ -1,0 +1,12 @@
+<html>
+    <head>
+         <title>link</title>
+    </head>
+    
+    <body>
+         <a href="http://www.yahoo.com">persib bandung.com</a>
+         <a href="L1 A 173040125.html">latihan 1a</a>
+         <a href="artikel.txt">baca artikel</a>
+          <p><a href="../index.html"><font size=4 face=arial>kembali ke halaman index</a></p>
+    </body>
+</html>

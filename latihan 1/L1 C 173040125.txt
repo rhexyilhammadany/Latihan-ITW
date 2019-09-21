@@ -1,0 +1,34 @@
+<html>
+     <head>
+     <title>sejarah</title>
+     </head>
+     
+     <body>
+          salam hangat
+          <hr>
+          dari eyang poetri
+          <hr width="5%"size="5"align="center"noshade>
+          <hr width="10%"size="10"align="center"noshade>
+          <hr width="5%"size="20"align="center"noshade>
+          <hr width="500"size="20"align="center">
+
+          eyang poetri adalah seorang
+          <center>
+          pendekar sakti dari jogja
+          </center>
+          yang gemar makan di angkringan tugu <br><br>
+
+         <b>petuah eyang poetri</b><br>
+         <i>setiap permasalahan hidup</i><br>
+         <u>pasti ada jalan keluarnya</u><br>
+         <b><u>yang penting adalah</u></b><br><br>
+         <i>selalu berpikiran terbuka</i><br><br>
+
+         <small>dari kecil</small><br>lalu menjadi sedang<br>
+         <big>dan akhirnya menjadi besar
+         <p><a href="../index.html"><font size=4 face=arial>kembali ke halaman index</a></p>
+         
+    </body>
+
+
+</html>

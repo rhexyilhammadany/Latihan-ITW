@@ -1,0 +1,12 @@
+<html>
+     <head>
+          <title>Persib bandung</title>
+     </head>
+
+     <body bgcolor="aqua">
+          <!--> Juara liga indonesia:)
+     <p><a href="../index.html"><font size=4 face=arial>kembali ke halaman index</a></p>
+     </body>
+
+         
+</html>

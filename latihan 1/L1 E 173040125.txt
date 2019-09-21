@@ -1,0 +1,21 @@
+<html>
+     <head>
+           <title>rumah makan</title>
+     </head>
+
+     <body>
+          menu makanan
+          <ul>
+               <li>bakso
+               <li>sate
+               <li>siomay
+          </ul><br>
+          menu minuman 
+          <ol>
+               <li>es jeruk
+               <li>es teler
+               <li>es campur
+               </ol>
+          <p><a href="../index.html"><font size=4 face=arial>kembali ke halaman index</a></p>
+     </body>
+</html>

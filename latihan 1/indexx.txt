@@ -1,0 +1,20 @@
+html>
+     <head>
+     <title>"index tugas1 173040125</title>
+     </head>
+     <body>
+     <!--<p>NAMA : RHEXY ILHAMMADANY</P><P>NPM : 173040125</P>--><p>NAMA : RHEXY ILHAM MADANY</P><P>NPM : 173040125</P>
+     <h3><left>1.<a href="docs/L1 A 173040125.html"> Latihan 1a </a></left></h3>
+     <h3><left>2.<a href="docs/L1 B 173040125.html"> Latihan 2b </a></left></h3>
+     <h3><left>3.<a href="docs/L1 C 173040125.html"> Latihan 3c </a></left></h3>
+     <h3><left>4.<a href="docs/L1 E 173040125.html"> Latihan 4e </a></left></h3>
+     <h3><left>5.<a href="docs/L1 G 173040125.html"> Latihan 5g </a></left></h3>
+     <h3><left>6.<a href="docs/L1 H 173040125.html"> Latihan 6h </a></left></h3>
+     <h3><left>7.<a href="docs/L1 I 173040125.html"> Latihan 7i </a></left></h3>
+     <h3><left>8.<a href="docs/L1 J 173040125.html"> Latihan 8j </a></left></h3>
+     <h3><left>9.<a href="docs/T1 A 173040125.html"> Tugas 1a </a></left></h3>
+     <h3><left>10.<a href="docs/T1 B 173040125.html"> Tugas 1b </a></left></h3>
+    
+     </body>
+
+</html>    

@@ -1,0 +1,111 @@
+<html>
+    <head>
+         <title>Beranda</title>
+    </head>
+    <body>
+         <h2><font color="green"><marquee>UNIVERSITAS PASUNDAN</marquee></font></h3>
+         <p>ini adalah halaman web pertama RHEXY ILHAM MADANY</p>
+         <body bgcolor="aqua">                                                                                           
+         <p align="center"><font size="6" color="white"> Silahkan Mengisi Data Yang Ada Dibawah Untuk Masuk ke Website</font></p>
+         <center><table border="0" width="400">
+               <tr><td>Nama</td>
+                   <td>:</td>
+                   <td><input type="text" size="25"></td>
+               </tr>
+               <tr><td>Password</td>
+                   <td>:</td>
+                   <td><input type="password" size="25"></td>
+               </tr>
+               <tr><td>Tanggal Lahir</td>
+                   <td>:</td>
+                   <td><input type="text"><br><select name="select">
+                                               <option value="1">1</option>
+                                               <option value="2">2</option>
+                                               <option value="3">3</option>
+                                               <option value="4">4</option>
+                                               <option value="5">5</option>
+                                               <option value="6">6</option>
+                                               <option value="7">7</option>
+                                               <option value="8">8</option>
+                                               <option value="9">9</option>
+                                               <option value="10">10</option>
+                                               <option value="11">11</option>
+                                               <option value="12">12</option>
+                                               <option value="13">13</option>
+                                               <option value="14">14</option>
+                                               <option value="15">15</option>
+                                               <option value="17">17</option>
+                                               <option value="18">18</option>
+                                               <option value="19">19</option>
+                                               <option value="20">20</option>
+                                               <option value="21">21</option>
+                                               <option value="22">22</option>
+                                               <option value="23">23</option>
+                                               <option value="24">24</option>
+                                               <option value="25">25</option>
+                                               <option value="26">26</option>
+                                               <option value="27">27</option>
+                                               <option value="28">28</option>
+                                               <option value="29">29</option>
+                                               <option value="30">30</option>
+                                               <option value="31">31</option>
+                                               <option value="32">32</option></select>
+                                               <select name="select2">
+                                               <option value="1">Januari</option>
+                                               <option value="2">februari</option>
+                                               <option value="3">maret</option>
+                                               <option value="4">april</option>
+                                               <option value="5">mei</option>
+                                               <option value="6">juni</option>
+                                               <option value="7">juli</option>
+                                               <option value="8">agustus</option>
+                                               <option value="9">september</option>
+                                               <option value="10">oktober</option>
+                                               <option value="11">november</option>
+                                               <option value="12">desember</option></select>
+                                               <select name="select3">
+                                               <option value="1">1990</option>
+                                               <option value="2">1991</option>
+                                               <option value="3">1992</option>
+                                               <option value="4">1993</option>
+                                               <option value="5">1994</option>
+                                               <option value="6">1995</option>
+                                               <option value="7">1996</option>
+                                               <option value="8">1997</option>
+                                               <option value="9">1998</option>
+                                               <option value="10">1999</option>
+                                               <option value="11">2000</option>
+                                               <option value="12">2001</option><select><br/></td>
+               </tr>
+               <tr><td>Jenis Kelamin</td>
+                   <td>:</td>
+                   <td><input type="radio" value="Laki-laki">Laki-Laki<br>
+                   <input type="radio" value="Perempuan">Perempuan</td>
+               </tr>
+              <tr><td>Jurusan</td>
+                  <td>:</td>
+                  <td><select>
+                       <option value="TIF">Teknik informatika</option>
+                       <option value="TM">TEKNIK MESIN</option>
+                       <option value="TP">TEKNIK PANGAN</option>
+                       <option value="TI">TEKNIK INDUSTRI</option>
+                       </select></td>
+               </tr>
+               <tr><td>Hoby</td>
+               <td>:</td>
+               <td><input type="checkbox" value="">Sport
+                   <input type="checkbox" value="">Traveling
+                   <input type="checkbox" value="">Blogging<br>
+                   <input type="checkbox" value="">Music
+                   <input type="checkbox" value="">Adventure
+                   <input type="checkbox" value="">Lainnya</td>
+              </tr>
+              <tr><td>Alamat</td>
+              <td>:</td>
+              <td><textarea rows="5" cols="25"></textarea></td>
+              </tr>
+              </table></center><center><input type="submit" value="Kirim">
+              </td></tr></table>
+              <p><a href="../index.html"><font size=4 face=arial>kembali ke halaman index</a></p>
+       </body>
+</html>

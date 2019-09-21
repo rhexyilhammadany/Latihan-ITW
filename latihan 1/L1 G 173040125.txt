@@ -1,0 +1,10 @@
+<html>
+     <head>
+           <title>picture</title>
+     </head>
+
+     <body>
+          <img src="../img/rhexy.jpg"align="middle"alt="Picture"width="200"height="300">
+          <p><a href="../index.html"><font size=4 face=arial>kembali ke halaman index</a></p>
+     </body>
+</html>

@@ -1,0 +1,79 @@
+<html>
+	<head>
+		<title>L1d A 173040138</title>
+	</head>
+	<body>
+		<table>
+				<h1>ISI PESANAN BAJU ONLINE</h1>	
+			<tr>
+				<td>Username</td>
+				<td>:</td>
+				<td><input type="text" name="username"></td>
+			</tr>
+			<tr>
+				<td>Password</td>
+				<td>:</td>
+				<td><input type="Password" name="password"></td>
+			</tr>
+			<tr>
+				<td>Fullname</td>
+				<td>:</td>
+				<td><input type="text" name="fullname"></td>
+			</tr>
+			<tr>
+				<td>Email</td>
+				<td>:</td>
+				<td><input type="text" name="email"></td>
+			</tr>
+			<tr>
+				<td>Agama</td>
+				<td>:</td>
+				<td>
+					<input type="checkbox" name="agama" value="Islam">Islam<br>
+					<input type="checkbox" name="agama" value="Kristen">Kristen<br>
+					<input type="checkbox" name="agama" value="Hindu">Hindu<br>
+					<input type="checkbox" name="agama" value="Budha">Budha<br>				
+				</td>
+			</tr>
+			<tr>
+				<td>Nomor HP</td>
+				<td>:</td>
+				<td><input type="text" name="nomorhp"></td>
+			</tr>
+			<tr>
+				<td>Jenis Kelamin</td>
+				<td>:</td>
+				<td>
+					<input type="radio" name="jeniskelamin" value="Pria">Pria<br>
+					<input type="radio" name="jeniskelamin" value="Wanita">Wanita
+				</td>
+			</tr>
+			<tr>
+				<td>jenis Baju</td>
+				<td>:</td>
+				<td>
+					<select>
+						<option name="jenisbaju">--Pilih Baju--</option>
+						<option value="Kaos Panjang">Kaos Panjang</option>
+						<option value="Kaos Pendek">Kaos Pendek</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td>Komentar</td>
+				<td>:</td>
+				<td><textarea name="Komentar"></textarea></td>
+				<td>&nbsp;&nbsp;</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="right">
+					<form>
+						<input type="submit" name="submit" value="Submit">
+						<input type="reset" name="reset" value="Reset">
+					</form>
+				</td>
+			</tr>
+		</table>
+                <p><a href="../index.html"><font size=4 face=arial>kembali ke halaman index</a></p>
+</html>
+	</body>

@@ -1,0 +1,69 @@
+<html>
+    <head>
+        <title>Curriculum Vitae RHEXY ILHAM MADANY</title>
+    </head>
+       <body bgcolor=”blue navy”>
+<h1><font size=5>Identitas Diri</font></h1>
+<hr color=”red” size=5>
+<table border=4>
+    <tr>
+        <td>Nama</td>
+        <td>Rhexy ilham madany</td>
+        <td rowspan="8"><img src="../img/pic1.jpg"align="middle"alt="Picture"width="200"height="300"></td>
+    </tr>
+    <tr>
+        <td>Jenis Kelamin</td>
+        <td>Laki-laki</td>
+    </tr>
+    <tr>
+        <td>Tempat dan Tanggal Lahir</td>
+        <td>Bandung,28 juni 1999</td>
+    </tr>
+    <tr>
+        <td>Berat / Tinggi Badan</td>
+        <td>60kg / 172cm</td>
+    </tr>
+    <tr>
+        <td>Alamat</td>
+        <td>Jl.Rancakihiang No.52 rt 01 rw 05 Desa Bojongloa Kec.Rancaekek Kab Bandung</td>
+    </tr>
+    <tr>
+        <td>Nomor Telepon</td>
+        <td>082115981239</td>
+    </tr>
+    <tr>
+        <td>Alamat Email</td>
+        <td>rehexy_173040125@mail.unpas.ac.id</td>
+    </tr>
+   </table>
+<h2><font size=5>Latar Belakang Pendidikan</font></h2>
+<hr color=”red” size=5>
+<table border=4>
+    <tr>
+        <td>Tahun</td>
+        <td>Tempat Pendidikan</td>
+    </tr>
+    <tr>
+        <td>2014-2017</td>
+        <td>SMA Negeri 1 Rancaekek</td>
+    </tr>
+    <tr>
+        <td>2011-2014</td>
+        <td>SMP Negeri 1 Rancaekek</td>
+    </tr>
+    <tr>
+        <td>2005-2011</td>
+        <td>SD Negeri 1 Rancaekek</td>
+    </tr>
+</table>
+<h3><font size=5>Hobby</font></h3>
+<hr color=”red” size=5>
+<pre>
+    <li><font size=4 face =arial>Bulutangkis</font></li>
+    <li><font size=4 face =arial>Handball</font></li>
+    <li><font size=4 face =arial>futsal</font></li>
+    <li><font size=4 face =arial>volley</font></li>
+<p><a href="../index.html"><font size=4 face=arial>kembali ke halaman index</a></p>
+</body>
+</html>
+
